@@ -1,0 +1,40 @@
+ul{
+	color: brown;
+	margin-left: 10%;
+	text-align: center;
+	font-size: 200%;
+	font-weight: bold;
+	font-family: algerian;
+	transition: all;
+	width: 1000px;
+	border: thick red solid;
+}
+body{
+	background-color: #1e1e1e;
+}
+div{
+	margin-left: 12%;
+	font-size: 200%;
+	width: 1024px; 
+	height: 50px;
+}
+a{
+	
+	color:orange;
+}
+.style1{
+	text-align:left;
+	width: 1100px;
+	max-width: 1520px;
+}
+.tab{
+	background-color: black;
+	width: 1340px;
+	height: 25px;
+	border: thick solid white;
+}
+marquee{
+	background-color: brown;
+	font-size: 500%;
+	font-family: algerian;
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Mes Projets</title>
+  </head>
+  <body style="  background-color: white;">
+    <h1 style="text-align: center; background-color: white;"><span style="font-family: Algerian;"><u><i><audio
+              src="file:///E:/CAM-L21/music/Fairy%20Tail%20Celtic%20Song.mp3" preload="auto"
+              autoplay="autoplay" loop="loop"></audio>Voici Mes Projets :</i></u></span></h1>
+    <span style="font-family: Algerian;"> </span>
+    <h1 style="background-color: white;">
+      <ul style="background-color: white;">
+        <li><span style="font-family: Algerian;">Participation à Le
+            Développement Des Application Avec CSE.</span></li>
+      </ul>
+      <span style="font-family: Algerian;"><img src="file:///E:/HTML&amp;CSS/SITES/photo/images2.jpg"
+          alt="fb" title="fb" style="width: 243px; height: 243px;"></span>
+      <ul style="background-color: white;">
+        <li style="background-color: #33ffff;"><span style="font-family: Algerian;">Organisationde
+            La Réciption Des Envoyés De GOOGLE dansL'ESI.</span></li>
+      </ul>
+      <span style="font-family: Algerian;"><img src="file:///E:/HTML&amp;CSS/SITES/photo/download.png"
+          alt="google" title="google"></span>
+      <ul style="background-color: white;">
+        <li style="background-color: white;"><span style="font-family: Algerian;">Développement
+            des programmes Personnels </span></li>
+      </ul>
+      <p><img src="file:///E:/HTML&amp;CSS/SITES/photo/download1.jpg" alt="insta"
+          title="insta" style="width: 308px; height: 308px;"></p>
+      <ul>
+        <li><span style="font-family: Algerian;">Aide au développement de
+            certains programmes (google chrome , baidu browser) et sites
+            web(facebook)</span></li>
+      </ul>
+    </h1>
+    <h1 style="background-color: white;">
+      <p><br>
+      </p>
+    </h1>
+    <h1 style="background-color: white;"><span style="font-family: Algerian;"><img
+          src="file:///E:/HTML&amp;CSS/SITES/photo/download10.jpg" alt="Bb" title="Bb"></span></h1>
+    <br>
+    <h2> <span style="font-family: Algerian;">Pour Retourner au page principale
+        cliquer sur ce lien : <a href="file:///E:/HTML&amp;CSS/SITES/TP/Page%20Principale.html"
+          title="PP" style="color: #663300;">Page Principale</a></span></h2>
+  </body>
+</html>

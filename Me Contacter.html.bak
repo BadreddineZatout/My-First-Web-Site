@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Me Contacter</title>
+    <link rel="stylesheet" type="text/css" href="contact.css">
+  </head>
+  <body>
+    <audio src="file:///E:/HTML&CSS/data/Music/Dragon%20ball%20Super%20OST%20Preview%20HD.mp3" preload="auto" autoplay="autoplay" loop="loop"></audio></div>
+    <img src="file:///E:/HTML&amp;CSS/data/photo/BZ.jpg" alt="BZ" title="BZ" style="width: 1340px">
+     <table class="tab"><tr><td></td></tr></table><br>
+    <div class="style1"> <a href="file:///E:/HTML&amp;CSS/SITES/TP/Page%20Principale.html"><img
+
+          alt="Acceuil" src="E:/HTML&amp;CSS/data/photo/Acceuilr.jpg" onmouseover="src='E:/HTML&amp;CSS/data/photo/Acceuilt.jpg'"
+
+          onmouseout="src='E:/HTML&amp;CSS/data/photo/Acceuilr.jpg'" height="60" width="200"> </a><a
+
+        href="file:///E:/HTML&amp;CSS/SITES/TP/page%20CV.html"><img alt="Acceuil"
+
+          src="E:/HTML&amp;CSS/data/photo/Moncvr.jpg" onmouseover="src='E:/HTML&amp;CSS/data/photo/Moncvt.jpg'"
+
+          onmouseout="src='E:/HTML&amp;CSS/data/photo/Moncvr.jpg'" height="60" width="200"></a>
+      <a href="file:///E:/HTML&amp;CSS/SITES/TP/Ma%20Ville.html"><img alt="Acceuil"
+
+          src="E:/HTML&amp;CSS/data/photo/maviller.jpg" onmouseover="src='E:/HTML&amp;CSS/data/photo/mavillet.jpg'"
+
+          onmouseout="src='E:/HTML&amp;CSS/data/photo/maviller.jpg'" height="60" width="200"></a>
+      <a href="file:///E:/HTML&amp;CSS/SITES/TP/Mes%20Projets.html"><img alt="Acceuil"
+
+          src="E:/HTML&amp;CSS/data/photo/mesprojetsr.jpg" onmouseover="src='E:/HTML&amp;CSS/data/photo/mesprojetst.jpg'"
+
+          onmouseout="src='E:/HTML&amp;CSS/data/photo/mesprojetsr.jpg'" height="60" width="200"></a>
+      <a href="file:///E:/HTML&amp;CSS/SITES/TP/Me%20Contacter.html"><img alt="Acceuil"
+
+          src="E:/HTML&amp;CSS/data/photo/mecontacterr.jpg" onmouseover="src='E:/HTML&amp;CSS/data/photo/mecontactert.jpg'"
+
+          onmouseout="src='E:/HTML&amp;CSS/data/photo/mecontacterr.jpg'" height="60" width="200"></a>
+    </div><br>
+    <table class="tab"><tr><td></td></tr></table>
+    <marquee class="m">Pour Me Contacter Voici Mon Email : hb_zatout@esi.dz</marquee>
+    <h1>Madame,
+        Monsieur<br>
+        Pour ME contacter remplir ce formulaire et l'envoyer<br>
+        MERCI</h1>
+    <div class="d">
+      <form method="POST" name="formulaire" action="">
+         NOM : <input name="nom" type="text"><br><br>
+          PRENOM : <input name="prenom" type="text"><br><br>
+          ADRESSE : <input name="adresse" type="text"><br><br>
+          L'ETAT : <input name="etat" type="text"><br><br>
+          AGE :
+          <select name="age">
+            <option value="select">select</option>
+            <option value="-18">-18</option>
+            <option value="19-25">19-25</option>
+            <option value="+25">+25</option>
+          </select>
+          <br><br>
+          SEXE :<input name="sexe" value="homme" type="radio"> homme <input name="sexe"
+
+            value="femme" type="radio">femme<br><br>
+          TELEPHONE : <input name="telephone" type="numbre"><br><br>
+          Email: <input name="email" type="email"><br><br>
+          VOTRE IMAGE : <input name="image" accept="image/*" type="file"><br><br>
+          LE RAISON DE ME CONTACTER :<br>
+        <textarea name="raison" cols="100"
+
+rows="10"></textarea><br>
+        </span> <span style="font-family: Algerian;"><br>
+        </span> <span style="font-family: Algerian;"><input name="submit" value="Submit"
+
+type="submit"> <input name="reset" value="Reset" type="reset"></span> </form>
+    </div>
+  </body>
+</html>

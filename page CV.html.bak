@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>page CV</title>
+    <link rel="stylesheet" href="CV.css" type="text/css">
+  </head>
+  <body> <audio src="file:///E:/HTML&amp;CSS/data/Music/Game%20Of%20Thrones%20Theme.mp3"
+      preload="auto" autoplay="autoplay" loop="loop"></audio>
+    <h1 style="text-align: center; background-color: #66ffff;"> <b>Ce page
+        contient mes informations personnels</b> </h1>
+    <table>
+      <tbody>
+        <tr>
+          <td>
+            <h2>
+              <ul>
+                <li><i><b>Nom :</b></i> <span style="color: red;">Zatout</span></li>
+                <br>
+                <li><b><i>Prénom :</i></b> <span style="color: red;">Badreddine</span></li>
+                <br>
+                <li><b><i>Age :</i></b> <span style="color: red;">18</span></li>
+                <br>
+                <li><b><i>Languege Matrisé :</i></b><span style="  color: red;">
+                    Arab , Anglais , Français</span></li>
+                <br>
+                <li><b><i>Diplome : </i></b><span style="color: red;">BEM , BAC</span></li>
+                <br>
+                <li><b><i>Adresse Actuelle :</i></b><span style="color: red;">Cité
+                    156 Logs Bâtiment A N°8 Kechida - Batna</span></li>
+                <br>
+                <li><b><i>Adresse Current :</i></b><span style="color: red;">RU
+                    Bouraoui Amar El Harrach - Alger</span></li>
+                <br>
+                <li><b><i>Téléphone :</i></b> <span style="color: red;">0669463168</span></li>
+                <br>
+                <li><b><i>Travail :</i></b><span style="color: red;">Etudiant
+                    Dans L'Ecole Nationale Superieure D'Informatique</span></li>
+              </ul>
+            </h2>
+          </td>
+          <td><img src="file:///E:/HTML&amp;CSS/data/photo/20171021_182800.jpg"
+              alt="moi" title="moi" style="width: 381px; height: 336px;"></td>
+        </tr>
+      </tbody>
+    </table>
+    <p> <span style="font-family: Algerian;"></span><span style="font-family: Algerian;"></span>
+      &nbsp;&nbsp; </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
+    <p><span style="font-family: Algerian;"><br>
+      </span></p>
+    <p><span style="font-family: Algerian;"><br>
+      </span></p>
+    <p><span style="font-family: Algerian;">Pour Retourner au page principale
+        cliquer sur ce lien : <a href="file:///E:/HTML&amp;CSS/SITES/TP/Page%20Principale.html"
+          title="PP" style="color: #663300;">Page Principale</a></span></p>
+  </body>
+</html>

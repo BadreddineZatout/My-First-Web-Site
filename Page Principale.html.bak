@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Page Principale</title>
+    <link rel="stylesheet" href="TP.css" type"text="" css"="">
+  </head>
+  <body>&nbsp; <audio src="file:///E:/HTML&amp;CSS%5Cdata%5CMusic/Ed%20Sheeran%20-%20Shape%20Of%20You%20%28Instrumental%20Remix%29.mp3"
+      preload="auto" autoplay="autoplay" loop="loop"></audio>
+    <div class="style1"> <a href="file:///E:/HTML&amp;CSS/SITES/TP/Page%20Principale.html"><img
+          alt="Acceuil" src="E:/HTML&amp;CSS/data/photo/Acceuilr.jpg" onmouseover="src='data/photos/acceuilr.jpg'"
+          onmouseout="src='data/photos/acceuilt.jpg'" height="60" width="200"> </a><a
+        href="file:///E:/HTML&amp;CSS/SITES/TP/page%20CV.html"><img alt="Acceuil"
+          src="E:/HTML&amp;CSS/data/photo/Moncvr.jpg" onmouseover="src='data/photos/acceuilr.jpg'"
+          onmouseout="src='data/photos/acceuilt.jpg'" height="60" width="200"></a>
+      <a href="file:///E:/HTML&amp;CSS/SITES/TP/Ma%20Ville.html"><img alt="Acceuil"
+          src="E:/HTML&amp;CSS/data/photo/maviller.jpg" onmouseover="src='data/photos/acceuilr.jpg'"
+          onmouseout="src='data/photos/acceuilt.jpg'" height="60" width="200"></a>
+      <a href="file:///E:/HTML&amp;CSS/SITES/TP/Mes%20Projets.html"><img alt="Acceuil"
+          src="E:/HTML&amp;CSS/data/photo/mesprojetsr.jpg" onmouseover="src='data/photos/acceuilr.jpg'"
+          onmouseout="src='data/photos/acceuilt.jpg'" height="60" width="200"></a>
+      <a href="file:///E:/HTML&amp;CSS/SITES/TP/Me%20Contacter.html"><img alt="Acceuil"
+          src="E:/HTML&amp;CSS/data/photo/mecontacterr.jpg" onmouseover="src='data/photos/acceuilr.jpg'"
+          onmouseout="src='data/photos/acceuilt.jpg'" height="60" width="200"></a>
+    </div>
+    <p> Bienvenu</p>
+    <br>
+    <p><br>
+    </p>
+  </body>
+</html>

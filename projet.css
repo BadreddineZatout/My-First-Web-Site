@@ -1,0 +1,23 @@
+body{
+	background-color: #1e1e1e;
+}
+h1{
+	text-align: center;
+	color: brown;
+}
+.tab{
+	background-color: black;
+	width: 1340px;
+	height: 25px;
+	border: white thick solid;
+}
+div{
+	text-align: center;
+}
+.t1{
+	text-align: center;
+	color: brown;
+	font-size: 250%;
+	background-color: silver;
+}
+

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Ma Ville</title>
+  </head>
+  <body style="        background-color: #ffff33;"><span style="font-family: Algerian;">
+    </span>
+    <h1 style="text-align: center; background-color: #ff6600;"><span style="font-family: Algerian;"><span
+          style="color: #663300;"><u><i><b> <audio src="file:///E:/CAM-L21/music/DESPACITO%20EN%20INSTRUMENTAL.mp3"
+                  preload="auto" autoplay="autoplay" loop="loop"></audio>batna </b></i></u></span></span></h1>
+    <span style="font-family: Algerian;"> </span>
+    <div style="text-align: center; background-color: #ffff33;"><span style="font-family: Algerian;"><i><b><img
+              src="file:///E:%5CHTML&amp;CSS%5CSITES%5Cphoto%5CVille_de_Batna.jpg"
+              alt="batna" title="batna" style="width: 425px; height: 566px;"><br>
+          </b></i></span></div>
+    <span style="font-family: Algerian;"> </span>
+    <div style="text-align: left; background-color: #ffff33;"><span style="font-family: Algerian;"><br>
+      </span> </div>
+    <span style="font-family: Algerian;"> </span>
+    <h2>
+      <ul style="background-color: #ffff33;">
+        <li style="background-color: #ffff33;"><span style="font-family: Algerian;"><u><i><b>L'emplacement
+                  :</b></i></u> Batna est situé dans l'EST de l'algérie et
+            exactement dans l'Aures, ce qui fait d'elle la capitale de l'Aures.</span></li>
+        <span style="font-family: Algerian;"><br>
+        </span>
+        <li style="background-color: #ffff33;"><span style="font-family: Algerian;"><u><i><b>Population
+                  :</b></i></u> 290 645 hab.</span></li>
+        <span style="font-family: Algerian;"><br>
+        </span>
+        <li style="background-color: #ffff33;"><span style="font-family: Algerian;"><b><i><u>Tourisme
+                  :</u></i></b></span>
+          <ul style="background-color: #ffff33;">
+            <li style="background-color: #ffff33;"><span style="font-family: Algerian;"><b>Le
+                  mausolée de Medghassen:</b><br>
+              </span>
+              <div style="text-align: left;"><span style="font-family: Algerian;"><b><img
+                      src="file:///E:%5CHTML&amp;CSS%5CSITES%5Cphoto%5CMedghasen.jpg"
+                      alt="Le mausolée de Medghassen" title="Le mausolée de Medghassen"
+                      style="width: 305px; height: 242px;"></b></span></div>
+            </li>
+            <li style="background-color: #ffff33;"><span style="font-family: Algerian;"><b>Timgad
+                  :</b></span>
+              <div style="text-align: left; background-color: #ffff33;"><span style="font-family: Algerian;"><img
+                    src="file:///E:%5CHTML&amp;CSS%5CSITES%5Cphoto%5Cimages.jpg"
+                    alt="Timgad" title="Timgad"><img src="file:///E:%5CHTML&amp;CSS%5CSITES%5Cphoto%5Cimages1.jpg"
+                    alt="timgad" title="timgad"></span></div>
+            </li>
+            <li><span style="font-family: Algerian;"><b>Le jardin du théâtre
+                  régional de Batna :</b></span></li>
+          </ul>
+          <span style="font-family: Algerian;"><img src="file:///E:%5CHTML&amp;CSS%5CSITES%5Cphoto%5CLe_jardin_du_TRBatna.jpg"
+              alt="Le jardin du théâtre régional de Batna" title="Le jardin du théâtre régional de Batna"
+              style="width: 500px; height: 300px;"></span>
+          <ul style="background-color: #ffff33;">
+          </ul>
+        </li>
+      </ul>
+      <span style="font-family: Algerian;"> Pour Retourner au page principale
+        cliquer sur ce lien : <a href="file:///E:/HTML&amp;CSS/SITES/TP/Page%20Principale.html"
+          title="PP" style="color: #663300;">Page Principale</a></span> </h2>
+    <span style="font-family: Algerian;"> </span>
+  </body>
+</html>

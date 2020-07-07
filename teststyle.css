@@ -1,0 +1,27 @@
+body{
+	background-color:yellow;
+}
+h1{
+	color:red;
+	font-style: italic;
+}
+p{
+	text-align: justify;
+}
+ul{
+	list-style-type: none;
+}
+li{
+color: silver;
+}
+a{
+	color:green;
+}
+strong{
+	color: red;
+}
+li strong{
+	font-style: italic;
+	font-weight: bold;
+	color: bleu;
+}

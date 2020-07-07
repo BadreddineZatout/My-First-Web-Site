@@ -1,0 +1,45 @@
+body{
+	background-color: #1e1e1e;
+}
+.style1{
+	text-align: center;
+}
+.tab{
+	background-color: black;
+	width: 1340px;
+	height: 25px;
+	border: solid thick white;
+}
+h2{
+	text-align: center;
+	border: red thick
+}
+.d1{
+	border:  solid red thick;
+	font-size: 150%;
+	color: brown;
+}
+th{
+	float: right;
+	font-size: 200%;
+	color: white;
+
+}
+td{
+	font-size: 200%;
+	color: white;
+}
+.im{
+	float: left;
+	text-align: right;
+}
+.tabe{
+	border: solid thick white;
+	width: 1340px;
+	height: 25px;
+}
+marquee{
+	background-color: brown;
+	font-size: 500%;
+	font-family: algerian;
+}

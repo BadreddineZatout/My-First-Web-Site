@@ -1,0 +1,27 @@
+div{
+	text-align: center;
+}	
+img{
+	margin-bottom:;
+}
+body{
+	font-family: algerian;
+	background-color: #1e1e1e;
+	width: 1340px;
+	height:1000px;
+}
+b{
+	color:silver;
+}
+h1{
+	color:brown;
+}
+.tabl{
+	border: thick brown solid;
+}
+.tab{
+	background-color: black;
+	width: 1340px;
+	height: 25px;
+	border: thick solid white;
+}
